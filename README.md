@@ -1,7 +1,7 @@
 
-  # Recruiter Portfolio Website Design
+  # Ricky's Website
 
-  This is a code bundle for Recruiter Portfolio Website Design. The original project is available at https://www.figma.com/design/i1KfPntGNiLh1oWetPzAom/Recruiter-Portfolio-Website-Design.
+  This is a code bundle for Ricky's Website. The original project is available at https://www.figma.com/design/i1KfPntGNiLh1oWetPzAom/Ricky-s-Website.
 
   ## Running the code
 
